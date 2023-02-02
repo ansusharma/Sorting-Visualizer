@@ -9,3 +9,5 @@ A sorting visualizer based on HTML, CSS and Javascript, consisting of below ment
 5. <a href="https://www.geeksforgeeks.org/quick-sort/"> Quick Sort </a>
 6. <a href="https://www.geeksforgeeks.org/selection-sort/"> Selection Sort </a>
 
+Visit:- https://kaleidoscopic-syrniki-3b6940.netlify.app/
+
